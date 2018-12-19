@@ -1,0 +1,14 @@
+D:\Programs\CSharp\LabTBook\LabTBook\bin\Debug\LabTBook.exe.config
+D:\Programs\CSharp\LabTBook\LabTBook\bin\Debug\LabTBook.exe
+D:\Programs\CSharp\LabTBook\LabTBook\bin\Debug\LabTBook.pdb
+D:\Programs\CSharp\LabTBook\LabTBook\obj\Debug\LabTBook.csprojResolveAssemblyReference.cache
+D:\Programs\CSharp\LabTBook\LabTBook\obj\Debug\LabTBook.Form1.resources
+D:\Programs\CSharp\LabTBook\LabTBook\obj\Debug\LabTBook.Properties.Resources.resources
+D:\Programs\CSharp\LabTBook\LabTBook\obj\Debug\LabTBook.csproj.GenerateResource.cache
+D:\Programs\CSharp\LabTBook\LabTBook\obj\Debug\LabTBook.csproj.CoreCompileInputs.cache
+D:\Programs\CSharp\LabTBook\LabTBook\obj\Debug\LabTBook.exe
+D:\Programs\CSharp\LabTBook\LabTBook\obj\Debug\LabTBook.pdb
+D:\Programs\CSharp\LabTBook\LabTBook\bin\Debug\Newtonsoft.Json.dll
+D:\Programs\CSharp\LabTBook\LabTBook\bin\Debug\Newtonsoft.Json.pdb
+D:\Programs\CSharp\LabTBook\LabTBook\bin\Debug\Newtonsoft.Json.xml
+D:\Programs\CSharp\LabTBook\LabTBook\obj\Debug\LabTBook.csproj.CopyComplete
